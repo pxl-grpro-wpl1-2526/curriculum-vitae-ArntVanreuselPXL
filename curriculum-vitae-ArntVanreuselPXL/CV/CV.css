@@ -26,6 +26,19 @@ body {
     text-align: center;
 }
 
+.profile-link{
+    display: inline-block;
+}
+
+.profile-link img {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.profile-link:hover img{
+    transform: translateY(-6px);
+    box-shadow: 0 12px 25px rgba(0,0,0,0.25);
+}
+
 .profile img {
     width: 180px;
     height: 180px;
