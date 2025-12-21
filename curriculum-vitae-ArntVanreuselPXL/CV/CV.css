@@ -7,8 +7,8 @@
 
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: #f4f4f4;
-    color: #333;
+    background-color: #f7f6f3;
+    color: #2f2f2f;
     line-height: 1.6;
     padding: 20px;
 }
@@ -31,17 +31,18 @@ body {
     height: 180px;
     object-fit: cover;
     border-radius: 50%;
-    border: 3px solid #555;
+    border: 3px solid #6b7c8f;
     margin-bottom: 15px;
 }
 
 .profile h1 {
     font-size: 2.3rem;
+    color: #3a4a5a;
 }
 
 
 article {
-    background-color: #ffffff;
+    background-color: #fcfcfb;
     padding: 20px;
     margin-bottom: 20px;
     border-radius: 8px;
@@ -49,9 +50,9 @@ article {
 
 article h2 {
     margin-bottom: 10px;
-    border-bottom: 2px solid #ddd;
+    border-bottom: 2px solid #d6d6d6;
     padding-bottom: 5px;
-    color: #444;
+    color: #4a5d73;
 }
 
 article p {
@@ -59,7 +60,7 @@ article p {
 }
 
 small {
-    color: #777;
+    color: #7a7a7a;
     font-style: italic;
 }
 
